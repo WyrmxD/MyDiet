@@ -1,5 +1,33 @@
 # MyDiet
 
+## Índice
+
+- [Calorías y macronutrientes](#calorías-y-macronutrientes)
+- [Menús](#menús)
+    - [Lunes](#lunes)
+    - [Martes](#martes)
+    - [Miércoles](#miércoles)
+    - [Jueves](#jueves)
+    - [Viernes](#viernes)
+    - [Sábado](#sábado)
+    - [Domingo](#domingo)
+
+## Calorías y Macronutrientes
+
+| Receta                           | Calorías | Proteínas (g) | Grasas (g) | Carbohidratos (g) | Fibra (g) |
+|---------------------------------|---------|---------------|------------|--------------------|-----------|
+| Tortilla de verduras y huevo     | 345     | 22            | 26         | 6                  | 2         |
+| Ensalada de atún y huevo         | 330     | 32            | 19         | 6                  | 3         |
+| Pollo al horno con verduras      | 360     | 36            | 13         | 21                 | 6         |
+| Tofu salteado con verduras       | 270     | 14            | 18         | 15                 | 4         |
+| Hamburguesa de lentejas y quinoa | 290     | 17            | 6          | 45                 | 13        |
+| Salmón al horno con verduras     | 390     | 30            | 22         | 18                 | 5         |
+| Ensalada de quinoa y aguacate    | 425     | 12            | 30         | 31                 | 13        |
+
+Es importante destacar que estos valores son aproximados y pueden variar dependiendo de los ingredientes específicos que utilices en cada receta y de las porciones que se sirvan. Si necesitas una información nutricional más precisa, te recomendamos utilizar alguna herramienta en línea específica para calcular las calorías y nutrientes de tus comidas.
+
+## Menús
+
 | Día | Desayuno                                             | Comida                                                  | Cena                                                  |
 | --- | ---------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- |
 | L   | Tostadas de aguacate y huevo [receta](https://www.simplyrecipes.com/recipes/avocado_toast_with_soft_boiled_egg/) | Ensalada de lentejas con verduras y queso fresco [receta](https://www.directoalpaladar.com/recetas-de-ensaladas/ensalada-lentejas-verduras-queso-fresco-receta-vegetariana) | Ensalada de atún, tomate y pepino [receta](https://www.comidassaludables.eu/ensalada-de-atun-tomate-y-pepino/) |
