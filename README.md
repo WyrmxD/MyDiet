@@ -9,3 +9,22 @@
 | V   | Tortilla de espinacas y queso [receta](https://www.comidassaludables.eu/tortilla-de-espinacas-y-queso/) | Ensalada de pollo y aguacate [receta](https://www.comidassaludables.eu/ensalada-de-pollo-y-aguacate/) | Calabacín relleno de carne [receta](https://www.comidassaludables.eu/calabacin-relleno-de-carne/) |
 | S   | Batido de proteínas con plátano y espinacas [receta](https://www.gimmesomeoven.com/green-protein-smoothie-recipe/) | Hamburguesas de frijoles negros con aguacate [receta](https://www.delish.com/es/recetas/platos-principales/a33779160/hamburguesas-frijoles-negros-aguacate/) | Ensalada de pollo con fresas y queso [receta](https://www.comidassaludables.eu/ensalada-de-pollo-con-fresas-y-queso/) |
 | D   | Huevos rancheros [receta](https://www.food.com/recipe/huevos-rancheros-24882) | Pollo asado con patatas y verduras [receta](https://www.comidassaludables.eu/pollo-asado-con-patatas-y-verduras/) | Ensalada de tomate, aguacate y mozzarella [receta](https://www.comidassaludables.eu/ensalada-de-tomate-aguacate-y-mozzarella/) | 
+
+## Lunes
+
+| Desayuno | Comida | Cena |
+| --- | --- | --- |
+| huevos | pechuga de pollo | filete de salmón |
+| aguacate | arroz integral | espárragos |
+| queso feta | brócoli | champiñones |
+| pan integral | cebolla | ajo |
+| fruta fresca | tomate | caldo de pollo |
+| yogur griego | aceite de oliva | queso fresco |
+| nueces | limón | espinacas |
+| avena | garbanzos | berenjena |
+| leche de almendra | pimiento rojo | lentejas |
+| canela | zanahoria | perejil |
+| miel | manzana | vinagre balsámico |
+| bayas congeladas | pepino | aceitunas |
+| polvo de proteína de vainilla | lechuga romana | |
+| semillas de chía | lima | |
