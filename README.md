@@ -109,6 +109,68 @@
 | polvo de proteína de vainilla | lechuga romana | |
 | semillas de chía | | |
 
+### Desayuno: Tortilla de espinacas y queso
+
+| Ingredientes | Cantidad |
+| --- | --- |
+| espinacas frescas | 50g |
+| huevo | 2 |
+| queso feta | 30g |
+| cebolla roja | 1/4 |
+| aceite de oliva | 1 cucharada |
+| sal y pimienta | al gusto |
+
+1. Lava y corta las espinacas en trozos pequeños. Pica finamente la cebolla roja.
+2. En un tazón, bate los huevos con sal y pimienta al gusto.
+3. Añade las espinacas y la cebolla picada a los huevos batidos y mezcla bien.
+4. En una sartén antiadherente, calienta el aceite de oliva a fuego medio. Añade la mezcla de huevo y espinacas y cocina durante unos minutos hasta que empiece a cuajarse.
+5. Desmenuza el queso feta sobre la mezcla de huevo y espinacas y coloca la sartén debajo del grill (broiler) en el horno para que se dore la superficie. Si no tienes un grill, puedes voltear la tortilla con ayuda de un plato y dorar la otra cara en la sartén.
+6. Sirve la tortilla de espinacas y queso caliente y disfruta de un desayuno saludable y delicioso.
+
+### Comida: Ensalada de pollo asado con aguacate y nueces
+
+| Ingredientes | Cantidad |
+| --- | --- |
+| pechuga de pollo | 150g |
+| mezcla de lechugas | 2 tazas |
+| aguacate | 1/2 |
+| nueces | 1/4 taza |
+| aceite de oliva | 1 cucharada |
+| vinagre balsámico | 1 cucharada |
+| sal y pimienta | al gusto |
+
+1. Precalienta el horno a 200°C.
+2. Coloca la pechuga de pollo en una bandeja para hornear y sazona con sal y pimienta al gusto.
+3. Hornea durante 20-25 minutos o hasta que esté cocido y dorado.
+4. Deja enfriar el pollo durante unos minutos, luego córtalo en tiras o trozos pequeños.
+5. En un tazón pequeño, mezcla el aceite de oliva, el vinagre balsámico, la sal y la pimienta para hacer el aderezo de la ensalada.
+6. En un plato grande, coloca las hojas de lechuga y agrega las tiras de pollo encima.
+7. Corta el aguacate por la mitad, quita el hueso y luego corta la carne en trozos pequeños. Agrega los trozos de aguacate a la ensalada.
+8. Espolvorea las nueces por encima de la ensalada.
+9. Rocía el aderezo de vinagreta por encima de la ensalada.
+10. Sirve la ensalada de pollo asado con aguacate y nueces y disfruta de un desayuno saludable y delicioso.
+
+### Cena: Salmón al horno con verduras
+
+| Ingredientes | Cantidad |
+| --- | --- |
+| filete de salmón | 150g |
+| calabacín | 1 |
+| zanahorias | 2 |
+| cebolla | 1 |
+| aceite de oliva | 1 cucharada |
+| jugo de limón | 1 cucharada |
+| ajo picado | 1 diente |
+| sal y pimienta | al gusto |
+
+1. Precalienta el horno a 200°C.
+2. Lava y corta el calabacín y las zanahorias en rodajas. Corta la cebolla en gajos.
+3. En un tazón pequeño, mezcla el aceite de oliva, el jugo de limón y el ajo picado. Sazona con sal y pimienta al gusto.
+4. En una bandeja para hornear, coloca las verduras en una sola capa. Rocía con la mezcla de aceite y limón.
+5. Coloca el filete de salmón encima de las verduras y rocía con un poco más de la mezcla de aceite y limón.
+6. Hornea durante 12-15 minutos o hasta que el salmón esté cocido a tu gusto y las verduras estén doradas y tiernas.
+7. Sirve el salmón con las verduras, y disfruta de una cena saludable y deliciosa.
+
 ## Miércoles
 
 | Desayuno | Comida | Cena |
