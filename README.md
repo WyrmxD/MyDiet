@@ -29,6 +29,67 @@
 | polvo de proteína de vainilla | lechuga romana | |
 | semillas de chía | lima | |
 
+### Desayuno: Huevos revueltos con aguacate y queso feta
+
+| Ingredientes | Cantidad |
+| --- | --- |
+| huevos | 2 |
+| aguacate | 1/2 |
+| queso feta | 30g |
+| pan integral | 1 rebanada |
+| aceite de oliva | 1 cucharadita |
+| sal y pimienta | al gusto |
+
+1. Calienta una sartén antiadherente a fuego medio-alto.
+2. En un tazón, bate los huevos y sazona con sal y pimienta.
+3. Agrega el aceite de oliva a la sartén caliente y vierte los huevos batidos. Cocina, revolviendo constantemente con una espátula, hasta que los huevos estén cocidos a tu gusto.
+4. Mientras tanto, corta el aguacate por la mitad y retira el hueso. Corta la carne del aguacate en cubos pequeños.
+5. Corta el pan en rebanadas y tuesta en una tostadora.
+6. Una vez que los huevos estén listos, agrega los cubos de aguacate y el queso feta desmenuzado y mezcla todo bien.
+7. Sirve los huevos revueltos con el pan tostado y disfruta de un desayuno delicioso y nutritivo.
+
+### Comida: Ensalada de pollo y patata
+
+| Ingredientes | Cantidad |
+| --- | --- |
+| patatas | 2 medianas |
+| pechuga de pollo | 1 |
+| tomate | 1 |
+| cebolla | 1/4 |
+| aguacate | 1/2 |
+| aceite de oliva | 1 cucharada |
+| jugo de limón | 1 cucharada |
+| sal y pimienta | al gusto |
+
+1. Precalienta el horno a 200°C.
+2. Lava las patatas y córtalas en cubos pequeños. Coloca en una bandeja para hornear y rocía con aceite de oliva. Sazona con sal y pimienta. Hornea durante 20-25 minutos, o hasta que estén doradas y crujientes.
+3. Mientras tanto, corta la pechuga de pollo en tiras y sazona con sal y pimienta.
+4. Calienta una sartén a fuego medio-alto y agrega una cucharada de aceite de oliva. Agrega las tiras de pollo y cocina hasta que estén doradas y cocidas por completo.
+5. Corta el tomate en cubos pequeños y pica la cebolla en trozos pequeños.
+6. En un tazón grande, mezcla las patatas asadas, el pollo dorado, el tomate y la cebolla.
+7. En un tazón pequeño, mezcla el jugo de limón y el aceite de oliva. Sazona con sal y pimienta al gusto. Vierte la mezcla de aderezo sobre la ensalada y mezcla todo bien.
+8. Corta el aguacate por la mitad, retira el hueso y corta la carne en cubos pequeños. Agrega el aguacate a la ensalada justo antes de servir.
+
+### Cena: Salmón al horno con espárragos y patatas
+
+| Ingredientes | Cantidad |
+| --- | --- |
+| filete de salmón | 150g |
+| patatas pequeñas | 4 |
+| espárragos | 6-8 |
+| aceite de oliva | 1 cucharada |
+| jugo de limón | 1 cucharada |
+| ajo picado | 1 diente |
+| sal y pimienta | al gusto |
+
+1. Precalienta el horno a 200°C.
+2. Lava y pela las patatas y córtalas en cuartos. Lava los espárragos y corta los extremos leñosos.
+3. En un tazón pequeño, mezcla el aceite de oliva, el jugo de limón y el ajo picado. Sazona con sal y pimienta al gusto.
+4. En una bandeja para hornear, coloca las patatas y los espárragos en una sola capa. Rocía con la mezcla de aceite y limón.
+5. Coloca el filete de salmón encima de las verduras y rocía con un poco más de la mezcla de aceite y limón.
+6. Hornea durante 12-15 minutos o hasta que el salmón esté cocido a tu gusto y las patatas estén doradas y tiernas.
+7. Sirve el salmón con las patatas y los espárragos, y disfruta de una cena saludable y deliciosa.
+
 ## Martes
 
 | Desayuno | Comida | Cena |
